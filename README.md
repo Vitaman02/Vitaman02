@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Vitaman02/Vitaman02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Haven't been using github for enough time, but I thought this looks cool :)
 
-Here are some ideas to get you started:
+<a href="https://github.com/vitaman02">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitaman02&hide=prs,issues,contribs&theme=react&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/vitaman02">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaman02&langs_count=10&layout=compact&theme=react" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/vitaman02/pybarcodes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitaman02&repo=pybarcodes&theme=react" />
+</a>
+<a href="https://github.com/vitaman02/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitaman02&repo=steganography&theme=react" />
+</a>
