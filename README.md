@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Haven't been using github for enough time, but I thought this looks cool :)
 
 <a href="https://github.com/vitaman02">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitaman02&hide=prs,issues,contribs&theme=react&count_private=true&show_icons=true&include_all_commits=true" />
