@@ -11,6 +11,6 @@
 <a href="https://github.com/vitaman02/pybarcodes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitaman02&repo=pybarcodes&theme=react" />
 </a>
-<a href="https://github.com/vitaman02/">
+<a href="https://github.com/vitaman02/steganography">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitaman02&repo=steganography&theme=react" />
 </a>
